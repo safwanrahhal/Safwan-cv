@@ -29,63 +29,6 @@
                 <li>Occasionally interact with customers over Skype or telephone</li>
                 <li>Contribute ideas to the team on how customers can be delighted</li></ul>
             </p>
-            <h3>Educational Qualifications</h3>
-            <table>
-                <tr id="heading">
-                    <td>Qualification</td>
-                    <td>Board</td>
-                    <td>Percentage / Grades</td>
-                    <td>Year</td>
-                </tr>
-                <tr>
-                    <td>S.S.C</td>
-                    <td>G.S.E.B India</td>
-                    <td>75.57%</td>
-                    <td>2004</td>
-                </tr>
-                <tr>
-                    <td>H.S.C (Science Stream)</td>
-                    <td>G.S.E.B India</td>
-                    <td>72.40%</td>
-                    <td>2006</td>
-                </tr>
-                <tr>
-                    <td>GDCA (Grad. Dipl in Computer Applications)</td>
-                    <td>NIE (National Institute Of Engineering), Mumbai, India</td>
-                    <td>A Grade</td>
-                    <td>2008</td>
-                </tr>
-                <tr>
-                    <td>B.Sc. (Hons) - Applied Accounting</td>
-                    <td>Oxford Brookes University</td>
-                    <td>2:1 – Upper Second Class Honours</td>
-                    <td>2012</td>
-                </tr>
-                <tr>
-                    <td>Chartered Accounting - ACCA</td>
-                    <td>ACCA Glasgow, UK</td>
-                    <td>Passed (1st Attempt)</td>
-                    <td>2013</td>
-                </tr>
-            </table>
-            <h3>Independent Courses</h3>
-            <p>
-            <ul>
-                <li>
-                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals</span> – Codecademy.com</li>
-                <li>
-                <span id="course-name">Python – Fundamentals and Dynamic Programming </span> - Codecademy.com</li>
-                <li>
-                <span id="course-name">JavaScript – Programming Basics, JS Apps and Build Games </span> - Codecademy.com</li>
-                <li>
-                <span id="course-name">CS101: Introduction to Computer Science - Building a Web Crawler</span> - Udacity.com</li>
-                <li>
-                <span id="course-name">CS50x – Introduction to Computer Science I</span> – edX.org & Harvard University</li>
-                <li>
-                <span id="course-name">Calculus One</span> - Ohio State University & Coursera.org</li>
-                <li>
-                <span id="course-name">Introduction to Finance</span> - Coursera.org & University of Michigan</li>
-            </ul>
             <h3>Technical Skills</h3>
             <p>
             <ul>
