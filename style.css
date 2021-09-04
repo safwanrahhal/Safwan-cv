@@ -20,7 +20,7 @@ header {
 
 header h1 {
     color: #333366;
-    padding: 7px;
+    margin-top: -12px;
     text-align: center;
     font-size: 4rem;
     align-items: flex-start;
@@ -72,6 +72,10 @@ aside h3 {
 aside p {
     margin-bottom: 10px;
     margin-top: -10px;
+}
+
+aside a {
+    color: #333366;
 }
 
 .profil p {
