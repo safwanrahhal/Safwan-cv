@@ -1,0 +1,149 @@
+*,
+html {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 90%;
+    margin: 40px auto 40px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+header h1 {
+    color: #333366;
+    padding: 7px;
+    text-align: center;
+    font-size: 4rem;
+    align-items: flex-start;
+}
+
+header h2 {
+    color: #fad239;
+    text-align: center;
+    padding: 7px;
+    margin: auto;
+    font-size: 3rem;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ellipse img {
+    height: 250px;
+    width: 250px;
+}
+
+.imgprofil img {
+    height: 288px;
+    width: 290px;
+}
+
+aside {
+    width: 29%;
+    background-color: #fad239;
+    text-align: center;
+    padding: 10px;
+}
+
+aside img {
+    height: 75px;
+    width: 75px;
+}
+
+aside h3 {
+    color: #391B69;
+    margin-bottom: 10px;
+}
+
+aside p {
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+.profil p {
+    text-align: justify;
+    padding: 7px;
+}
+
+p {
+    color: #333366;
+    font-size: 1.3rem;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 3rem;
+    color: #fad239;
+}
+
+.for h3 {
+    color: #333366;
+}
+
+.benev h3 {
+    color: #333366;
+}
+
+section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+article {
+    padding: 7px;
+    width: 66%;
+}
+
+article p {
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+
+article h3 {
+    margin-bottom: 20px;
+}
+
+article a {
+    color: #fad239;
+}
+
+.for {
+    margin-top: 60px
+}
+
+.Comp {
+    margin-top: 60px
+}
+
+.sb {
+    margin-top: 60px
+}
+
+.lieu {
+    color: #fad239;
+}
+
+.date {
+    color: #999;
+}
+
+.sb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
